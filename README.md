@@ -1,4 +1,4 @@
-[![Logo Image](https://cdn.opendactyl.dev/logos/new/pterodactyl_logo.png)](https://opendactyl.dev)
+[![Logo Image](https://github.com/user-attachments/assets/4195d68a-95d5-4afa-9e88-7e198fa3ab64)](https://opendactyl.dev)
 
 ![Discord](https://img.shields.io/discord/122900397965705216?label=Discord&logo=Discord&logoColor=white)
 ![GitHub Releases](https://img.shields.io/github/downloads/pterodactyl/wings/latest/total)
