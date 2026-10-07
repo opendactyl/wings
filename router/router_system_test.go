@@ -8,8 +8,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/pterodactyl/wings/config"
-	"github.com/pterodactyl/wings/server"
+	"github.com/opendactyl/wings/config"
+	"github.com/opendactyl/wings/server"
 )
 
 func TestPostUpdateConfigurationRotatesCredentials(t *testing.T) {

@@ -4,8 +4,8 @@ import (
 	"emperror.dev/errors"
 	"github.com/apex/log"
 
-	"github.com/pterodactyl/wings/internal/database"
-	"github.com/pterodactyl/wings/internal/models"
+	"github.com/opendactyl/wings/internal/database"
+	"github.com/opendactyl/wings/internal/models"
 )
 
 type eventHandler struct {

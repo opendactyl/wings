@@ -9,9 +9,9 @@ import (
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
 
-	"github.com/pterodactyl/wings/config"
-	"github.com/pterodactyl/wings/internal/models"
-	"github.com/pterodactyl/wings/system"
+	"github.com/opendactyl/wings/config"
+	"github.com/opendactyl/wings/internal/models"
+	"github.com/opendactyl/wings/system"
 )
 
 var (

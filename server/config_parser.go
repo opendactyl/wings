@@ -6,8 +6,8 @@ import (
 	"emperror.dev/errors"
 	"github.com/gammazero/workerpool"
 
-	"github.com/pterodactyl/wings/internal/ufs"
-	"github.com/pterodactyl/wings/parser"
+	"github.com/opendactyl/wings/internal/ufs"
+	"github.com/opendactyl/wings/parser"
 )
 
 // UpdateConfigurationFiles updates all the defined configuration files for

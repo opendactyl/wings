@@ -18,9 +18,9 @@ import (
 	"github.com/docker/docker/api/types/network"
 	"github.com/docker/docker/client"
 
-	"github.com/pterodactyl/wings/config"
-	"github.com/pterodactyl/wings/environment"
-	"github.com/pterodactyl/wings/system"
+	"github.com/opendactyl/wings/config"
+	"github.com/opendactyl/wings/environment"
+	"github.com/opendactyl/wings/system"
 )
 
 var ErrNotAttached = errors.Sentinel("not attached to instance")

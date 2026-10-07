@@ -7,10 +7,10 @@ import (
 	"github.com/apex/log"
 	"github.com/gin-gonic/gin"
 
-	"github.com/pterodactyl/wings/config"
-	"github.com/pterodactyl/wings/remote"
-	"github.com/pterodactyl/wings/router/middleware"
-	wserver "github.com/pterodactyl/wings/server"
+	"github.com/opendactyl/wings/config"
+	"github.com/opendactyl/wings/remote"
+	"github.com/opendactyl/wings/router/middleware"
+	wserver "github.com/opendactyl/wings/server"
 )
 
 var tokenRegex = regexp.MustCompile(`([?|&]token=)([^&]+)($|&)`)

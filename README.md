@@ -1,8 +1,8 @@
 [![Logo Image](https://github.com/user-attachments/assets/4195d68a-95d5-4afa-9e88-7e198fa3ab64)](https://opendactyl.dev)
 
 ![Discord](https://img.shields.io/discord/122900397965705216?label=Discord&logo=Discord&logoColor=white)
-![GitHub Releases](https://img.shields.io/github/downloads/pterodactyl/wings/latest/total)
-[![Go Report Card](https://goreportcard.com/badge/github.com/pterodactyl/wings)](https://goreportcard.com/report/github.com/pterodactyl/wings)
+![GitHub Releases](https://img.shields.io/github/downloads/opendactyl/wings/latest/total)
+[![Go Report Card](https://goreportcard.com/badge/github.com/opendactyl/wings)](https://goreportcard.com/report/github.com/opendactyl/wings)
 
 # Opendactyl Wings (Pterodactyl Wings)
 

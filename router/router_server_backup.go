@@ -17,11 +17,11 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"
 
-	"github.com/pterodactyl/wings/config"
-	"github.com/pterodactyl/wings/router/middleware"
-	"github.com/pterodactyl/wings/server"
-	"github.com/pterodactyl/wings/server/backup"
-	"github.com/pterodactyl/wings/server/filesystem"
+	"github.com/opendactyl/wings/config"
+	"github.com/opendactyl/wings/router/middleware"
+	"github.com/opendactyl/wings/server"
+	"github.com/opendactyl/wings/server/backup"
+	"github.com/opendactyl/wings/server/filesystem"
 )
 
 var blockedBackupRestorePrefixes = []netip.Prefix{

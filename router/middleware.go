@@ -3,8 +3,8 @@ package router
 import (
 	"github.com/gin-gonic/gin"
 
-	"github.com/pterodactyl/wings/router/middleware"
-	"github.com/pterodactyl/wings/server"
+	"github.com/opendactyl/wings/router/middleware"
+	"github.com/opendactyl/wings/server"
 )
 
 // ExtractServer returns the server instance from the gin context. If there is
