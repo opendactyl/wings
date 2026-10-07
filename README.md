@@ -1,11 +1,4 @@
-<p align="center">
-  <a href="https://pterodactyl.io">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset=".github/assets/logo-dark.svg">
-      <img alt="Pterodactyl" src=".github/assets/logo-light.svg" height="72">
-    </picture>
-  </a>
-</p>
+[![Logo Image](https://cdn.pterodactyl.io/logos/new/pterodactyl_logo.png)](https://pterodactyl.io)
 
 ![Discord](https://img.shields.io/discord/122900397965705216?label=Discord&logo=Discord&logoColor=white)
 ![GitHub Releases](https://img.shields.io/github/downloads/pterodactyl/wings/latest/total)
@@ -19,12 +12,6 @@ instances, fetch server logs, generate backups, and control all aspects of the s
 
 In addition, Wings ships with a built-in SFTP server allowing your system to remain free of Pterodactyl specific
 dependencies, and allowing users to authenticate with the same credentials they would normally use to access the Panel.
-
-## Pterodactyl v2 is coming soon
-
-Wings is stable and remains the daemon for Pterodactyl: the same Wings is used with the upcoming Panel v2.
-
-[![Watch: Introducing Pterodactyl v2](.github/assets/v2-video.jpg)](https://www.youtube.com/watch?v=1ER4kv0jVEU)
 
 ## Sponsors
 
