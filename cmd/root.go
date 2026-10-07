@@ -445,7 +445,7 @@ __ [blue][bold]Pterodactyl[reset] _____/___/_______ _______ ______
 
 Copyright © 2018 - %d Dane Everitt & Contributors
 
-Website:  https://pterodactyl.io
+Website:  https://opendactyl.dev
  Source:  https://github.com/pterodactyl/wings
 License:  https://github.com/pterodactyl/wings/blob/develop/LICENSE
 

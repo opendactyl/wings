@@ -32,7 +32,7 @@ jobs:
           VERSION: ${{ github.ref_name }}
         run: |
           BRANCH=release/${{ env.VERSION }}
-          git config --local user.email "ci@pterodactyl.io"
+          git config --local user.email "ci@opendactyl.dev"
           git config --local user.name "Pterodactyl CI"
           git checkout -b $BRANCH
           git push -u origin $BRANCH
@@ -56,7 +56,7 @@ jobs:
             dist/*
 
       # Hand the tagged version to pterodactyl/pterodactyl-cdn, which publishes
-      # https://cdn.pterodactyl.io/releases/latest.json. It can't read the
+      # https://cdn.opendactyl.dev/releases/latest.json. It can't read the
       # version off the API itself, because the release above is still a draft.
       # GITHUB_TOKEN deliberately cannot be used here: it has no access to
       # another repository.
